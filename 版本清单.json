@@ -1,0 +1,219 @@
+{
+  "版本": "0.4",
+  "日期": "2026-10-18",
+  "技能": [
+    "godot-project-setup",
+    "godot-architecture-design",
+    "game-task-design",
+    "godot-module-dev",
+    "godot-code-review",
+    "github-pr-handoff"
+  ],
+  "文件": [
+    {
+      "路径": ".gitattributes",
+      "字节数": 19,
+      "SHA256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+    },
+    {
+      "路径": ".gitignore",
+      "字节数": 2247,
+      "SHA256": "bfc85becdd29be33dc2e201a0e15ad66c91682eccd6fa527ab8b3343cfcf9857"
+    },
+    {
+      "路径": "README.md",
+      "字节数": 2507,
+      "SHA256": "f6a00cd145ba0f97083099a740f6b037281aff60541dc1d9c85a464da06e417b"
+    },
+    {
+      "路径": "game-task-design/SKILL.md",
+      "字节数": 5205,
+      "SHA256": "02c60143fd43a841c8e76c334298f089037382d4ff6337d5e150625a3c37881b"
+    },
+    {
+      "路径": "game-task-design/agents/openai.yaml",
+      "字节数": 315,
+      "SHA256": "6e0036eb7ea2ff85bca1644bdb640d46a0884aceaf423eecc5453cf6d43e837d"
+    },
+    {
+      "路径": "game-task-design/参考/团队默认约定.md",
+      "字节数": 7813,
+      "SHA256": "afd6fbd181baba0bc940e633859066ed080c9fc1425d2d6c0d7104469d3e1255"
+    },
+    {
+      "路径": "game-task-design/参考/架构与模块边界.md",
+      "字节数": 6741,
+      "SHA256": "5cf7ffdfeecc7dab42f77f8c26d2ff6252eb9b1b572e38050e16bdad89796605"
+    },
+    {
+      "路径": "game-task-design/模板/任务执行卡.md",
+      "字节数": 1212,
+      "SHA256": "edf6d345a0094a11b6b813cacf305318edf60b10cc0965caa595d55f8c3e5a23"
+    },
+    {
+      "路径": "game-task-design/模板/模块与接口设计.md",
+      "字节数": 2013,
+      "SHA256": "6e5b68dc84381c1206d22034208aaa8758a31317ffa40a8ce0d0de64e9343b5a"
+    },
+    {
+      "路径": "github-pr-handoff/SKILL.md",
+      "字节数": 5712,
+      "SHA256": "c9f24d65ccedca7299267ddaf9b5e9b0bbf4b64e99fa97c2e0b73162861e1664"
+    },
+    {
+      "路径": "github-pr-handoff/agents/openai.yaml",
+      "字节数": 363,
+      "SHA256": "0c61a1cc06d0a00659d5ee6fa57e50d7caeca42e6aadc6ea6cbbe8174f4e511f"
+    },
+    {
+      "路径": "github-pr-handoff/参考/团队默认约定.md",
+      "字节数": 7813,
+      "SHA256": "afd6fbd181baba0bc940e633859066ed080c9fc1425d2d6c0d7104469d3e1255"
+    },
+    {
+      "路径": "github-pr-handoff/参考/提交与远端操作.md",
+      "字节数": 5035,
+      "SHA256": "2f69fc2f5e7b70737aae7cf3d0e88532e08587347774cbb0e4ec10c1f7f28273"
+    },
+    {
+      "路径": "github-pr-handoff/参考/素材与大文件管理.md",
+      "字节数": 4345,
+      "SHA256": "d7e26d3c2f2fd71d8d93e12fe3a59dd24c1be2b083a5dc98459aee7ad99a68d0"
+    },
+    {
+      "路径": "github-pr-handoff/模板/.gitignore",
+      "字节数": 2247,
+      "SHA256": "bfc85becdd29be33dc2e201a0e15ad66c91682eccd6fa527ab8b3343cfcf9857"
+    },
+    {
+      "路径": "github-pr-handoff/脚本/检查提交内容.py",
+      "字节数": 6980,
+      "SHA256": "bfcea6ba7d4f57f7f7036e9a25d04d07b42a19967775ccb824cf1fdc2354ab68"
+    },
+    {
+      "路径": "godot-architecture-design/SKILL.md",
+      "字节数": 3355,
+      "SHA256": "22fb9e85fb187863eaef8469207457bb61a2c146d02dd9a6b159104d5ae6de37"
+    },
+    {
+      "路径": "godot-architecture-design/agents/openai.yaml",
+      "字节数": 369,
+      "SHA256": "a33331d5bfa6ebb5d9b0af27a84157a8711c2fb9be2f49c2f49066a6cf3c9a42"
+    },
+    {
+      "路径": "godot-architecture-design/参考/团队默认约定.md",
+      "字节数": 7813,
+      "SHA256": "afd6fbd181baba0bc940e633859066ed080c9fc1425d2d6c0d7104469d3e1255"
+    },
+    {
+      "路径": "godot-architecture-design/参考/架构与模块边界.md",
+      "字节数": 6741,
+      "SHA256": "5cf7ffdfeecc7dab42f77f8c26d2ff6252eb9b1b572e38050e16bdad89796605"
+    },
+    {
+      "路径": "godot-architecture-design/模板/模块与接口设计.md",
+      "字节数": 2013,
+      "SHA256": "6e5b68dc84381c1206d22034208aaa8758a31317ffa40a8ce0d0de64e9343b5a"
+    },
+    {
+      "路径": "godot-code-review/SKILL.md",
+      "字节数": 5659,
+      "SHA256": "3caf58399b2ed1b1d3f48cab85a2214548b981218bc6e53d2acd5f8f21c64141"
+    },
+    {
+      "路径": "godot-code-review/agents/openai.yaml",
+      "字节数": 292,
+      "SHA256": "8c83852a678d561b137f71c82a514b46f9bc7be4da9187728fbbc0b8ea8b75c1"
+    },
+    {
+      "路径": "godot-code-review/参考/团队默认约定.md",
+      "字节数": 7813,
+      "SHA256": "afd6fbd181baba0bc940e633859066ed080c9fc1425d2d6c0d7104469d3e1255"
+    },
+    {
+      "路径": "godot-code-review/参考/审核重点.md",
+      "字节数": 3107,
+      "SHA256": "689f5eeaa2d190a6c7e931d4ef216c72c5fed8be30535abd4055f74a8046828d"
+    },
+    {
+      "路径": "godot-code-review/参考/架构与模块边界.md",
+      "字节数": 6741,
+      "SHA256": "5cf7ffdfeecc7dab42f77f8c26d2ff6252eb9b1b572e38050e16bdad89796605"
+    },
+    {
+      "路径": "godot-module-dev/SKILL.md",
+      "字节数": 6383,
+      "SHA256": "18cdd146223ddfa03e152965e67a2b59f9741780ecbdb83237a2b371ae0eafb1"
+    },
+    {
+      "路径": "godot-module-dev/agents/openai.yaml",
+      "字节数": 324,
+      "SHA256": "185d598a62f7132d1fa400080a0f1aa4afb0367748a160c68f2ff7f0689501f6"
+    },
+    {
+      "路径": "godot-module-dev/参考/团队默认约定.md",
+      "字节数": 7813,
+      "SHA256": "afd6fbd181baba0bc940e633859066ed080c9fc1425d2d6c0d7104469d3e1255"
+    },
+    {
+      "路径": "godot-module-dev/参考/场景与资源.md",
+      "字节数": 2711,
+      "SHA256": "3cca778df25050c0a67e378ea9a1ec6c6391bc83f2341146c8fa48afe17df223"
+    },
+    {
+      "路径": "godot-module-dev/参考/架构与模块边界.md",
+      "字节数": 6741,
+      "SHA256": "5cf7ffdfeecc7dab42f77f8c26d2ff6252eb9b1b572e38050e16bdad89796605"
+    },
+    {
+      "路径": "godot-module-dev/参考/联机与物理.md",
+      "字节数": 2565,
+      "SHA256": "e57679392cfd6cd8b16e11fcb36bb50e9016e4485e0084518b3203ebf4c3aed4"
+    },
+    {
+      "路径": "godot-module-dev/参考/问题诊断.md",
+      "字节数": 1864,
+      "SHA256": "4001aa56cfd25d7f52aeed2d33bbdd548d7bd22c6fd7295dcad1266e7103deb4"
+    },
+    {
+      "路径": "godot-module-dev/模板/开发交接.md",
+      "字节数": 972,
+      "SHA256": "d3ea0009fb4b7d53dc14c5bd1cca36654cbaf389d0b4cc36e14a0ab97492dfec"
+    },
+    {
+      "路径": "godot-project-setup/SKILL.md",
+      "字节数": 5983,
+      "SHA256": "f6ab003ea9d6b031e5605934ca677c152fff13425be0c6e0b16715f3899524f9"
+    },
+    {
+      "路径": "godot-project-setup/agents/openai.yaml",
+      "字节数": 392,
+      "SHA256": "56b2af12446b15ff15cecc02a859839392baa0351ea2c8c7626a362a10860496"
+    },
+    {
+      "路径": "godot-project-setup/参考/团队默认约定.md",
+      "字节数": 7813,
+      "SHA256": "afd6fbd181baba0bc940e633859066ed080c9fc1425d2d6c0d7104469d3e1255"
+    },
+    {
+      "路径": "godot-project-setup/参考/目录操作与交接.md",
+      "字节数": 6236,
+      "SHA256": "51e9508aae7920b3ac7725997df3cf4fa688b09a8dfa27ca8bc838f1032f0725"
+    },
+    {
+      "路径": "godot-project-setup/模板/.gitignore",
+      "字节数": 2247,
+      "SHA256": "bfc85becdd29be33dc2e201a0e15ad66c91682eccd6fa527ab8b3343cfcf9857"
+    },
+    {
+      "路径": "godot-project-setup/模板/AGENTS.md",
+      "字节数": 2596,
+      "SHA256": "c7ab4ab5caf2bf512039e1d707c55d6643173c89c293bc2e8363f0795518ec54"
+    },
+    {
+      "路径": "技能包使用说明.md",
+      "字节数": 4787,
+      "SHA256": "f56797eedbb9839b598fe44e0392063634c1883c41c7b4edddaad5b463345a22"
+    }
+  ]
+}
